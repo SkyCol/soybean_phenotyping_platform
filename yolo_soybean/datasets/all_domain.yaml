@@ -1,0 +1,9 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+
+path: /hy-tmp/yolo_soybean/dataset/DA_dataset
+train: train/domain_all  
+val: eval  
+
+# Classes
+nc: 4  
+names: ['1spp', '2spp', '3spp','4spp']  

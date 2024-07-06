@@ -2,7 +2,8 @@
 
 ### Outdoor counting model 
 
-Outdoor soybean images can be downloaded here [P2PNet-Soy](https://github.com/UTokyo-FieldPhenomics-Lab/P2PNet-Soy?tab=readme-ov-file).    
+Outdoor soybean images can be downloaded here [P2PNet-Soy](https://github.com/UTokyo-FieldPhenomics-Lab/P2PNet-Soy?tab=readme-ov-file). 
+Some other images used in this study can be downloaded 
 Corresponding annotation files can be find in this repository (yolo_soybean/datasets).    
 
 The images taken by us and all the annotation files in our paper can be downloaded here [soybean detection dataset 2024]().   

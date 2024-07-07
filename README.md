@@ -12,5 +12,5 @@ You may need to place the images from other studies into the downloaded dataset'
 Corresponding annotation files can be find in this repository (yolo_soybean/datasets).      
 
 ### 1.2 Training and inference
-Use YOLOv8_for_soybean.ipynb, 
+Use YOLOv8_for_soybean.ipynb, YOLOv8_SAM.ipynb, YOLO
 

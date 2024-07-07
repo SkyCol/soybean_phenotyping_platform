@@ -12,8 +12,10 @@ You may need to place the images from other studies into the downloaded dataset'
 Corresponding annotation files can be find in this repository (yolo_soybean/datasets).      
 
 ### 1.2 Training and inference
-Use YOLOv8_for_soybean.ipynb, YOLOv8_SAM.ipynb, YOLOv8_DA_for_soybean.ipynb at /yolo_soybean/ultralytics/ to train and inference the YOLOv8, YOLOv8-SAM, YOLOv8-DA, respectively.    
-Pretrained checkpoints can be downloaded here [Dropbox](https://www.dropbox.com/scl/fo/ygb9mj1mdsn4cq1pfk0hf/AAwF2KBuQbnID3n1bqDD0Os?rlkey=ulj4zy49uawqn3iv2jp1ti7va&st=x886gxqh&dl=0).
+Use YOLOv8_for_soybean.ipynb, YOLOv8_SAM.ipynb, YOLOv8_DA_for_soybean.ipynb at /yolo_soybean/ultralytics/ to train and inference the YOLOv8, YOLOv8-SAM, YOLOv8-DA, respectively.     
+
+Pretrained checkpoints can be downloaded here [Dropbox](https://www.dropbox.com/scl/fo/ygb9mj1mdsn4cq1pfk0hf/AAwF2KBuQbnID3n1bqDD0Os?rlkey=ulj4zy49uawqn3iv2jp1ti7va&st=x886gxqh&dl=0).    
+Specifically, high-quality segment-anything model can be downloaded from [Github HQ-SAM](https://github.com/SysCV/sam-hq). 
 
 ## 2. Indoor counting model 
 

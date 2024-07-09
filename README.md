@@ -20,7 +20,8 @@ Specifically, high-quality segment-anything model can be downloaded from [Github
 ## 2. Indoor counting model 
 
 ### 2.1 Dataset
-The real soybean images and instance segmentation annotations can be downloaded here [Google Drive]().
+The real soybean images and instance segmentation annotations can be downloaded here [Google Drive](https://drive.google.com/file/d/1YOhUsZsPdHPEJT0AGEmSayO4n_Lhhfsh/view?usp=drive_link).    
+You can use Simulation/main.py to generate more data for training.
 
 ### 2.2 Checkpoints
 The Mask-RCNN checkpoints can be downloaded here [Dropbox]().    

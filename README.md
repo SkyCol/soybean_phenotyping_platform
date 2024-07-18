@@ -25,5 +25,5 @@ You can use Simulation/main.py to generate more data for training.
 
 ### 2.2 Checkpoints
 The Mask-RCNN checkpoints can be downloaded here [Dropbox]().    
-The Swin-Transformer checkpoints can be  downloaded here [Dropbox]().
+The Swin-Transformer checkpoints can be  downloaded here [Dropbox](https://www.dropbox.com/scl/fi/7l7p008hymq8lj3w7x0tp/SwinTrans_soybean_podnum.pth?rlkey=4ni2slgtl95m47l77lxkphxky&st=asei33ui&dl=0).
 

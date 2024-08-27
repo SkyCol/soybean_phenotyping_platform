@@ -1,5 +1,8 @@
 # soybean_phenotype_platform
 
+Paper List:
+[2024 ECCVw]()
+
 ## 1. Outdoor counting model 
 
 ### 1.1 Dataset

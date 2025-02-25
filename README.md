@@ -1,7 +1,8 @@
 # soybean_phenotype_platform
 
 ## Paper List    
-1. "Soybean pod and seed counting in both outdoor fields and indoor laboratories using unions of deep neural networks", 2024 ECCV workshop
+1. "Soybean pod and seed counting in both outdoor fields and indoor laboratories using unions of deep neural networks", 2024 ECCV workshop.
+   (The paper is also released on [arxiv](http://arxiv.org/abs/2502.15286))
 
 ## 1. Outdoor counting model 
 

@@ -2,7 +2,7 @@
 
 ## Paper List    
 1. "Soybean pod and seed counting in both outdoor fields and indoor laboratories using unions of deep neural networks", 2024 ECCV workshop.
-   (The paper is also released on [arxiv](http://arxiv.org/abs/2502.15286))
+   (The paper is also released on [*Arxiv*](http://arxiv.org/abs/2502.15286))
 
 ## 1. Outdoor counting model 
 
